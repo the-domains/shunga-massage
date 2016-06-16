@@ -35,12 +35,12 @@ description: >-
 
   Chaque massage Shunga est un pur de moment de plaisir. Il est inimitable et
   sans cesse renouvelé. 
-dateModified: '2016-06-16T20:46:26.764Z'
-datePublished: '2016-06-16T20:46:27.073Z'
+dateModified: '2016-06-16T20:46:29.436Z'
+datePublished: '2016-06-16T20:46:29.697Z'
 title: Massage Shun.Ga
 author: []
 sourcePath: _posts/2016-05-21-test-title.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
